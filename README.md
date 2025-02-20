@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+#### I'm currently doing a bachelors in chemistry and chemical engineering at EPFL.
+#### 📫 How to reach me: ema.luzakova@epfl.ch
 <!--
 **emaluzak/emaluzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
